@@ -1,0 +1,4 @@
+﻿{
+  "StartMessage": " {red}»» {default}Players: {red}{tPlayers}{default} x {blue}{ctPlayers}{default} - {green}{message}",
+  "ChatWarningKillMessage": "You're {darkred}Idle/AFK{default}. Move or you'll be {lime}killed{default} in {lightblue}{time}{default} seconds."
+}

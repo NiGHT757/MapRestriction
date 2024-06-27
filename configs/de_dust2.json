@@ -1,0 +1,75 @@
+{
+  "MapName": "de_dust2",
+  "Restrictions": {
+    "Model": "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001_256_capped.vmdl",
+    "Messages": {
+      "1": {
+        "LessThan": 7,
+        "MoreThan": 0,
+        "Message": "A Only"
+      },
+      "2": {
+        "LessThan": 10,
+        "MoreThan": 6,
+        "Message": "A and Mid Only"
+      },
+      "3": {
+        "LessThan": 0,
+        "MoreThan": 9,
+        "Message": "All Map"
+      }
+    },
+    "Areas": {
+      "CT Start": {
+        "LessThan": 7,
+        "MoreThan": 0,
+        "Origin": "-210.0 2250.0 -110.0",
+        "Angles": "0.0 180.0 0.0",
+        "Scale": "1.0"
+      },
+      "Mid Doors": {
+          "LessThan": 7,
+          "MoreThan": 0,
+          "Origin": "-540.0 1630.0 -125.0",
+          "Angles": "0.0 -90.0 0.0",
+          "Scale": "1.0"
+      },
+      "Upper Tunnel": {
+          "LessThan": 10,
+          "MoreThan": 0,
+          "Origin": "-1600.0 726.0 40.0",
+          "Angles": "0.0 90.0 0.0",
+          "Scale": "1.0"
+      },
+      "Upper Tunnel 2": {
+        "LessThan": 10,
+        "MoreThan": 0,
+        "Origin": "-1600.0 726.0 160.0",
+        "Angles": "0.0 90.0 0.0",
+        "Scale": "1.0"
+      },
+      "Lower Tunnel": {
+          "LessThan": 10,
+          "MoreThan": 0,
+          "Origin": "-525.0 1500.0 -110.0",
+          "Angles": "0.0 -180.0 0.0",
+          "Scale": "1.0"
+      },
+      "B Doors": {
+          "LessThan": 10,
+          "MoreThan": 0,
+          "Origin": "-1299.0 2100.0 10.0",
+          "Angles": "0.0 0.0 0.0",
+          "Scale": "1.0"
+      },
+      "B Window": {
+          "LessThan": 10,
+          "MoreThan": 0,
+          "Origin": "-1314.0 2550.0 130.0",
+          "Angles": "0.0 0.0 0.0",
+          "Scale": "1.0"
+      }
+    }
+  }
+}
+
