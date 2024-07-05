@@ -2,6 +2,8 @@
   "MapName": "de_dust2",
   "Restrictions": {
     "Model": "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001_256_capped.vmdl",
+    "UpdateOnPlayerConnect": false,
+    "CountBots": false,
     "Messages": {
       "1": {
         "LessThan": 7,
